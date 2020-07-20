@@ -1,6 +1,6 @@
 # HW03-PasswordGenerator
 
-This password generator prompts the user (when a button is clicked) to choose the length of the password, and then they are prompted to to choose between which character set they want to use. If the user chooses a set with 'character' in the name then they are prompter with whether they would like their alphabetical components of the password to be lowercase or uppercase. During this assignment I leanred for to use conditional loops, how to correctly use '||' and '&&' properly with multiple checks, and how to construct function and call it / calling within an evvent listener.
+This password generator prompts the user (when a button is clicked) to choose the length of the password, and then they are prompted to to choose between which character set they want to use. If the user chooses a set with 'character' in the name then they are prompter with whether they would like their alphabetical components of the password to be lowercase or uppercase. During this assignment I leanred for to use conditional loops, how to correctly use '||' and '&&' properly with multiple checks, and how to construct function and call it / calling within an event listener.
 
 Here are the character optins that the usercan choose from:
 
