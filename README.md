@@ -10,7 +10,7 @@ Here are the character optins that the usercan choose from:
 * charater+numeric
 * character+special
 * numeric+special
-* character+numeric+special
+* character+special+numeric
 
 'character' options have the option of:
 
